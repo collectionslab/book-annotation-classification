@@ -8,7 +8,7 @@ pandas==0.22.0
 scipy==1.1.0
 scikit_image==0.13.1
 tensorflow==1.12.2
-pip==9.0.1
+pip==19.2
 setuptools==39.1.0
 imgaug==0.2.6
 ipython==7.2.0
